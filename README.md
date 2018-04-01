@@ -1,2 +1,4 @@
-<a href="https://softuni.bg/trainings/1787/software-technologies-march-2018"> # Software-Technologies-Course-March-2018 </a>
+# <a href="https://softuni.bg/trainings/1787/software-technologies-march-2018" rel="Software Technologies Course March 2018 "><p align="center">Software Technologies - 2017<p>
+</a>
 Solutions for Software Technologies Course March 2018
+
