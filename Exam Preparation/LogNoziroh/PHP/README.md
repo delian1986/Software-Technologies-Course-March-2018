@@ -1,4 +1,6 @@
-ToDoList
-========
+### PHP CRUD
 
-A Symfony project created on July 31, 2017, 6:24 pm.
+- **Symfony** framework
+- **Twig** view engine
+- **Doctrine** ORM
+- **MySQL** database
