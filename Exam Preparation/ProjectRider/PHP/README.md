@@ -1,4 +1,7 @@
-.checkout
-=========
+### PHP CRUD
 
-A Symfony project created on April 13, 2018, 11:46 pm.
+- **Symfony** framework
+- **Twig** view engine
+- **Doctrine** ORM
+- **MySQL** database
+
