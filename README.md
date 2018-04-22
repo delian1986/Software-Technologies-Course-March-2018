@@ -8,4 +8,6 @@ Solutions for Software Technologies Course March 2018
 3. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/JavaScript" > JavaScript Syntax and Basic Web </a> 
 4. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/Java" > Java Syntax and Basic Web </a> 
 5. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/Exam%20Preparation" > Exam Preparation </a> 
+6. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/Exam%20Preparation/My%20Exam%20Cat%20Shop" > My Exam 22.04.2018 - Cat Shop </a> 
+
 
