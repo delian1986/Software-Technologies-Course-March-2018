@@ -10,6 +10,6 @@ Solutions for Software Technologies Course March 2018
 5. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/Exam%20Preparation" > Exam Preparation </a> 
 6. <a href="https://github.com/delian1986/Software-Technologies-Course-March-2018/tree/master/Exam%20Preparation/My%20Exam%20Cat%20Shop" > My Exam 22.04.2018 - Cat Shop </a> 
 </br>
-<p><a href="https://softuni.bg/Certificates/Details/51835/55e227ab"><b>Certificate</b></a></p>
+<p><a href="https://softuni.bg/certificates/details/54087/6f26fe94"><b>Certificate</b></a></p>
 
 
